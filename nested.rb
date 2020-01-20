@@ -110,6 +110,7 @@ def changing_alan
      puts programmer_hash
      
 end
+ puts programmer_hash
 
 def adding_to_dennis
 	programmer_hash = 
